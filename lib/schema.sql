@@ -2,8 +2,7 @@ CREATE TABLE series (
 id INTEGER PRIMARY KEY,
 title TEXT,
 author_id INTEGER,
-sub- TEXT,
-end_date TEXT);
+subgenre_id INTEGER);
 
 CREATE TABLE users (
 id INTEGER PRIMARY KEY,
