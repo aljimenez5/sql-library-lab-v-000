@@ -6,8 +6,7 @@ subgenre_id INTEGER);
 
 CREATE TABLE subgenres (
 id INTEGER PRIMARY KEY,
-name TEXT,
-age INTEGER);
+name TEXT);
 
 CREATE TABLE pledges (
 id INTEGER PRIMARY KEY,
