@@ -8,7 +8,7 @@ CREATE TABLE subgenres (
 id INTEGER PRIMARY KEY,
 name TEXT);
 
-CREATE TABLE pledges (
+CREATE TABLE authors (
 id INTEGER PRIMARY KEY,
 amount INTEGER,
 user_id INTEGER,
