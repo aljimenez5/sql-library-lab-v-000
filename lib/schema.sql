@@ -4,7 +4,7 @@ title TEXT,
 author_id INTEGER,
 subgenre_id INTEGER);
 
-CREATE TABLE users (
+CREATE TABLE subgenres (
 id INTEGER PRIMARY KEY,
 name TEXT,
 age INTEGER);
