@@ -10,6 +10,4 @@ name TEXT);
 
 CREATE TABLE authors (
 id INTEGER PRIMARY KEY,
-amount INTEGER,
-user_id INTEGER,
-project_id INTEGER);
+name TEXT);
